@@ -1,0 +1,2 @@
+Project Idea: like we there are multiple templates in figma for other purposes a card generator web app which 
+              would have multiple templates for buisness cards onlline with customisable content
